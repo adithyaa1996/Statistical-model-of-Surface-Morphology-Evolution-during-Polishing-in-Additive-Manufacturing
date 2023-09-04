@@ -8,4 +8,4 @@ This GitHub repository maintains data associated with our accepted paper in IISE
 
 **3. Stage0_fitted_data.mat** - .mat file containing data pertaining to height measures of the 3D printed sample prior to polishing and simulated initial surface which is statistically similar to the actual data. 
 
-**4. surface_roughness.m, graph_evolution.m, solve_for_d.m, KLDiv.m and Gen_hurst.m** - Matlab scripts containing functions that are called within the main script (Parameter_fitting_Polishing.m)
+**4. surface_roughness.m, graph_evolution.m, solve_for_d.m, KLDiv.m** and **Gen_hurst.m** - Matlab scripts containing functions that are called within the main script (Parameter_fitting_Polishing.m)
