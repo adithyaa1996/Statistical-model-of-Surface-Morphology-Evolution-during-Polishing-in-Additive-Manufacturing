@@ -8,7 +8,7 @@ This GitHub repository maintains data associated with our accepted paper in IISE
 
 **3. Stage0_fitted_data.mat** - .mat file containing data pertaining to height measures of the 3D printed sample prior to polishing and generated initial surface (simulation) which is statistically similar to the actual data. 
 
-**4. Parameter_fitting_Polishing.m** - Script containing the model capturing polishing dynamics with network formation, evaluated at each stage of polishing. This file generates the Bearing Area Curves of the initial surface generated after each stage of polishing. (It uses other functions defined in #5).
+**4. Parameter_fitting_Polishing.m** - Script containing the model capturing polishing dynamics with network formation, evaluated at each stage of polishing. This file generates the Bearing Area Curves of the initial surface simulated after each stage of polishing and compares with experimental data. (It uses other functions defined in #5).
 
 **5. surface_roughness.m, graph_evolution.m, solve_for_d.m, KLDiv.m** and **Gen_hurst.m** - Matlab scripts containing functions that are called within the main script (Parameter_fitting_Polishing.m)
 
