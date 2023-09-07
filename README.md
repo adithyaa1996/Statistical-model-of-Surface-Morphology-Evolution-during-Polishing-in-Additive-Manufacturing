@@ -1,4 +1,4 @@
-# Statistical model of Surface Morphology Evolution during Polishing in Additive_Manufacturing
+# Statistical model of Surface Morphology Evolution during Polishing in Additive Manufacturing
 
 This GitHub repository maintains data associated with our accepted paper in IISE Transactions titled "Statistical and Dynamical model of Surface Morphology Evolution during Polishing in Additive Manufacturing". To briefly summarize,
 
